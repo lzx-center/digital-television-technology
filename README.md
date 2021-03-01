@@ -1,2 +1,2 @@
-# digital-television-technology
-digital-television-technology class materials of cuc
+# 数字电视技术
+中国传媒大学《数字电视技术》课程课件、作业题以及复习资料
